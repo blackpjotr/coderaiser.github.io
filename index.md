@@ -15,7 +15,3 @@ Projects
 - [Nemesis](http://coderaiser.github.io/nemesis "Nemesis") - x86 operation system.
 - [The Cat](http://coderaiser.github.io/thecat "The Cat") - Simple cat server. Get new cat on every request.
 - [Status IO](http://coderaiser.github.io/status-io "Status IO") - Check host status.
-
-Donates
-=====================
-If you want to support one of my projects, you can register on digital ocean with [referral link](https://m.do.co/c/331c4947c5df).
